@@ -1,3 +1,7 @@
+// Portions adapted from Learning Modern 3D Graphics Programming
+// http://www.arcsynthesis.org/gltut/
+// (c) 2012 Jason L. McKesson
+
 #include <vector>
 
 GLuint GLCreateShader(GLenum shaderType, const char* shaderSource)
